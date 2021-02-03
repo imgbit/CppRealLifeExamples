@@ -1,0 +1,1 @@
+executable('SimpleTest', 'main.cpp')

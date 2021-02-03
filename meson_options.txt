@@ -1,0 +1,1 @@
+option('SimpleTest', type : 'feature', value : 'auto')
